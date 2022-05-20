@@ -1,0 +1,4 @@
+pandas
+pathlib
+hvplot.pandas
+scikit-learn
